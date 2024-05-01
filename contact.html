@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <!-- meta tags block -->
+   <meta charset="UTF-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <meta name="description" content="This is a Dublin city based hiking and trekking club">
+   <meta name="keywords" content="hiking,trekking,dublin,adventure club">
+   
+   <!-- favicon code block-->
+   <link rel="apple-touch-icon" sizes="180x180" href="assets/favicon/apple-touch-icon.png">
+   <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon/favicon-32x32.png">
+   <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon/favicon-16x16.png">
+  
+   <!-- css stylesheet block-->
+   <link rel="stylesheet" href="assets/css/style.css">
+   
+   <!-- browser title -->
+    <title>Dublin Hiking Club - Contact</title>
+</head>
+
+<body>
+    <!-- logo, image and tagline block-->   
+    <header>
+        <div class="flex-container" id="logo">
+            <img id="logo-image" src="assets/images/logo.webp" alt="hiker logo">
+            <div class="flex-container" id="logo-text">
+                <h1 id="logo-name">
+                    <a href="index.html">Dublin Hiking Club</a>
+                </h1>
+                <h2 id="tagline"><em>Dublin City based hiking and trekking club</em></h2>
+            </div>
+        </div>
+    </header>
+
+    <!-- navigation bar -->
+    <nav id="nav-bar">
+        <ul class="flex-container" id="navigation">
+            <li>
+                <a href="index.html">Home</a>
+            </li>
+            <li>
+                <a href="dates.html">Dates</a>
+            </li>
+            <li>
+                <a href="support.html">Support</a>
+            </li>
+            <li>
+                <a href="contact.html">Contact</a>
+            </li>
+        </ul>
+    </nav>
+
+    <section>
+        <!-- page title -->
+        <div class="page-info">
+            <h2>Contact Us</h2>
+        </div>
+    </section>
+
+    <!-- contact form and contact details section -->
+    <div class="flex-container contact-section">
+        <div class="contact-item">
+            <!-- FORM -->
+            <form action="thankyou.html">
+                <div class="flex-container flex-form-item">
+                    <label for="name">Name of adventurer</label>
+                    <input type="text" id="name" name="name" required>
+                </div>
+                <div class="flex-container flex-form-item">
+                    <label for="email">Contact email</label>
+                    <input type="email" id="email" name="email" required>
+                </div>
+                <div class="flex-container flex-form-item">
+                    <p>What would you like to know?</p>
+                </div>
+                <div class="flex-container flex-row-item">
+                    <input type="radio" class="radio" id="date-booking" name="contact-reason" value="Activity enquiry/booking" required>
+                    <label for="date-booking">Register for upcoming hike</label>
+                </div>
+                <div class="flex-container flex-row-item">
+                    <input type="radio" class="radio" id="suggestion" name="contact-reason" value="Suggest an activity or location">
+                    <label for="suggestion">Suggestions</label>
+                </div>
+                <div class="flex-container flex-row-item">
+                    <input type="radio" class="radio" id="other" name="contact-reason" value="Other">
+                    <label for="other">Other query</label>
+                </div>
+                <div class="flex-container flex-form-item">
+                    <label for="message">Your Message</label>
+                    <textarea id="message" placeholder="Start typing.."></textarea>
+                </div>
+                <div class="flex-container flex-button-item">
+                    <input type="submit" value="Send" class="button top-button">
+                    <input type="reset" value="Clear Form" class="button top-button">
+                </div>
+            </form>
+        </div>
+
+        <!-- contact details -->
+        <div class="flex-container contact-item contact-details">
+            <div>
+                <p><i class="fa-solid fa-envelope"></i><br>
+                    Contact us directly by emailing<br>
+                    <a href="mailto:hello@mumaandcub.org">info@dublinhikingclub.com</a>
+                </p>
+                <p><i class="fa-brands fa-facebook-messenger"></i><br>
+                    Send us a<br>
+                    <a href="http://facebook.com" target="_blank" rel="noopener" aria-label="visit our facebook page (opens in new tab)">Facebook message</a>
+                </p>
+            </div>
+
+            <div>
+                <p><i class="fa-solid fa-phone"></i><br>
+                    Give us a call<br>
+                    <a href="tel:+447711223344">+353 87 1234567</a>
+                </p>
+                <address>
+                    <i class="fa-solid fa-location-dot"></i><br>
+                        Dublin Hiking Club<br>
+                        10 Hanover Quay<br>
+                        Grand Canal Dock, Dublin
+                </address>
+            </div>
+        </div>
+    </div>
+
+    <!-- Google map -->
+    <div>
+        <div class="map-container">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d152515.36595706802!2d-6.410513712636021!3d53.324411630127145!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48670e80ea27ac2f%3A0xa00c7a9973171a0!2sDublin%2C%20Ireland!5e0!3m2!1sen!2sin!4v1714601571610!5m2!1sen!2sin" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+           
+        </div>
+    </div>
+
+    <!-- footer -->
+    <footer>
+        <div class="flex-container" id="footer">
+            <ul class="flex-container" id="footer-list">
+                <li>
+                    <a href="http://facebook.com" target="_blank" rel="noopener" 
+                    aria-label="visit our facebook page (opens in new tag)">
+                    <i class="fab fa-facebook"></i>
+                    </a>
+                </li>
+                <li>
+                    <a href="http://instagram.com" target="_blank"          rel="noopener" 
+                    aria-label="visit our facebook page (opens in new tag)">
+                    <i class="fab fa-instagram"></i>
+                    </a>
+                </li>
+            </ul>
+        </div>
+        <h3 class="statement">This is not a real site and used for educational purposes only</h3>
+    </footer>
+
+<!-- font awesome script -->
+<script src="https://kit.fontawesome.com/b59d6ce89e.js" crossorigin="anonymous"></script>
+
+</body>
+</html>
