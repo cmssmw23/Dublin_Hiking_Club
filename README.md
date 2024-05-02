@@ -146,9 +146,9 @@ The initial development for this website was done locally using visual stuido co
 ### Content and Resources
 
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
-- [Code Institute]() HTML and CSS learning content and for providing the [template]() used to start this website
+- [Code Institute]() HTML/CSS intial boilerplate content and for providing the [template]() that is foundation of this website
 - [Scrimba](https://scrimba.com/) - [CSS Grid Tutorial](https://scrimba.com/learn/cssgrid) and [CSS Flexbox Tutorial](https://scrimba.com/learn/flexbox)
-- [W3Schools](https://www.w3schools.com/) For general tips and advice on a variety of HTML and CSS
+- [W3Schools](https://www.w3schools.com/) For syntax related queries on HTML and CSS
 - [CSS-Tricks](https://css-tricks.com/) - [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/) and [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [The Forgotten CSS Position](https://www.youtube.com/watch?v=NzjU1GmKosQ) YouTube video by [Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified) 
 - [Embed a YouTube Video in HTML and Make it Responsive](https://www.youtube.com/watch?v=9YffrCViTVk) YouTube video by [tipswithpunch](https://www.youtube.com/c/tipswithpunch)
