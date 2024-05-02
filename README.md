@@ -22,7 +22,7 @@ Dublin Hiking club website has four pages that provides all the details that the
   - The Navigation bar is featured on all four pages and allows easy access to all parts of the organization's website without having to use the 'back' button
   - The navigation bar is also fixed to the top of the page so even when scrolling and accessing the website from different devices the user can easily navigate through them
 
-![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
+![Nav Bar](https://github.com/cmssmw23/Dublin_Hiking_Club/blob/f015e007c6c380d4dbb34551e54563ba284559d9/documentation/read%20me%20images/navigation.PNG)
 
 - __Home page__
 
@@ -36,7 +36,7 @@ Dublin Hiking club website has four pages that provides all the details that the
   
 
 
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
+![Home Page](https://github.com/cmssmw23/Dublin_Hiking_Club/blob/f015e007c6c380d4dbb34551e54563ba284559d9/documentation/read%20me%20images/Home.png)
 
 - __Dates Page__
 
@@ -44,7 +44,7 @@ Dublin Hiking club website has four pages that provides all the details that the
   - The free and Euro icons indicate if there is a cost associated with participating in the event
   - The event sign up and suggestion action buttons are placed at top and bottom of the page respectively.
 
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
+![Dates Page](https://github.com/cmssmw23/Dublin_Hiking_Club/blob/f015e007c6c380d4dbb34551e54563ba284559d9/documentation/read%20me%20images/Dates.png)
 
 - __Support Page__
 
@@ -52,7 +52,7 @@ Dublin Hiking club website has four pages that provides all the details that the
 
   - A youtube video is also embedded in the page that talks about hiking safety. 
 
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+![Support_Page](https://github.com/cmssmw23/Dublin_Hiking_Club/blob/f015e007c6c380d4dbb34551e54563ba284559d9/documentation/read%20me%20images/support.png)
 
 - __Contact Page__
 
@@ -60,14 +60,14 @@ Dublin Hiking club website has four pages that provides all the details that the
 
   - A youtube video is also embedded in the page that talks about hiking safety. 
 
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+![Contact_Page](https://github.com/cmssmw23/Dublin_Hiking_Club/blob/f015e007c6c380d4dbb34551e54563ba284559d9/documentation/read%20me%20images/Contact.png)
 
 
 - __Thankyou Page__
 
   - The page displays a thankyou image and a confirmation message that the user query has been submitted and the club will be touch soon on their request. 
 
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+![Thankyou page](https://github.com/cmssmw23/Dublin_Hiking_Club/blob/f015e007c6c380d4dbb34551e54563ba284559d9/documentation/read%20me%20images/thankyou.png)
 
 
 
@@ -76,7 +76,7 @@ Dublin Hiking club website has four pages that provides all the details that the
   - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media
 
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
+![Footer](https://github.com/cmssmw23/Dublin_Hiking_Club/blob/f015e007c6c380d4dbb34551e54563ba284559d9/documentation/read%20me%20images/footer.PNG)
 
 
 
