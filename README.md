@@ -10,10 +10,10 @@ Dublin Hiking club is a Dublin city based hiking and trekking club that brings t
 
 Dublin Hiking club website has four pages that provides all the details that the user must know about the club. The page names are described below,
 
-1.Home Page
-2.Dates Page
-3.Support Page
-4.Contact Page
+-1.Home Page
+-2.Dates Page
+-3.Support Page
+-4.Contact Page
 
 ### Existing Features
 
@@ -90,26 +90,42 @@ In addition, you may also use this section to discuss plans for additional featu
 - Another feature idea
 
 ## Testing 
+- The below manual scenarios were validated during functional testing of the website,
+- Ensure all navigation links in the different pages work as expected (Status:Pass)
+- Any external links provided work as expected and launch in a new tab (Status:Pass)
+- User successfully able to submit contact form (Status :Pass)
+- Validation rules for text boxes,email and radio button selection in contact page work as expected and does not allow user to submit if validation rules are not met (Status:Pass)
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
-
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
 
 ### Validator Testing 
 
 - HTML
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
+ 
+  - Home Page
+   ![Home_HTML_Page](https://github.com/cmssmw23/Dublin_Hiking_Club/blob/81a6bc7a61a9560dbd939eb70894e96273ea7e68/documentation/testing/home-html.PNG)
+
+  - Dates Page
+   ![Dates_HTML_Page](https://github.com/cmssmw23/Dublin_Hiking_Club/blob/81a6bc7a61a9560dbd939eb70894e96273ea7e68/documentation/testing/dates-html.PNG)
+  
+  - Support Page
+   ![Support_HTML_Page](https://github.com/cmssmw23/Dublin_Hiking_Club/blob/81a6bc7a61a9560dbd939eb70894e96273ea7e68/documentation/testing/support-html.PNG)
+
+  - Contact Page
+   ![Contact_HTML_Page](https://github.com/cmssmw23/Dublin_Hiking_Club/blob/81a6bc7a61a9560dbd939eb70894e96273ea7e68/documentation/testing/contact-html.PNG)
+
+  - Thankyou Page
+   ![Thankyou_HTML_Page](https://github.com/cmssmw23/Dublin_Hiking_Club/blob/81a6bc7a61a9560dbd939eb70894e96273ea7e68/documentation/testing/thankyou-html.PNG)
+ 
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
+  - CSS Validation
+      ![CSS_Page](https://github.com/cmssmw23/Dublin_Hiking_Club/blob/81a6bc7a61a9560dbd939eb70894e96273ea7e68/documentation/testing/css%20validation.PNG)
 
 ### Unfixed Bugs
 
-You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed. 
+No unfixed bugs remaining after validation
 
 ## Deployment
 
